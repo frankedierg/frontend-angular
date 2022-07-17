@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 20;
+    background-color: #17a2b8;
+    height: 120vh;
+  }
+.container {
+    max-width: 600px;
+    margin-left: calc(50% - 290px);
+    border: 1px solid #9C9C9C;
+    border-radius: 13px;
+    background-color: #EAEAEA;
+    padding: 36px;
+    margin-top: 0px;
+
+  }
+#registro{
+    margin-top: 0px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
